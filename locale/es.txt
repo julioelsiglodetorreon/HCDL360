@@ -1,14 +1,6 @@
 #: locale=es
 
-## Hotspot
-
-### Texto
-HotspotPanoramaOverlayTextImage_41B6EFF9_5120_5C1F_41A8_C1A6F735C426.text = Entrada
-
 ## Media
-
-### Imágen
-imlevel_437DB4E6_5160_CC13_41D1_E9E91C8ABEA9.url = media/panorama_5D98406F_50A3_8814_41D0_20BA1E6B2D2F_HS_641qx7k4_es.webp
 
 ### Título
 panorama_5D98406F_50A3_8814_41D0_20BA1E6B2D2F.label = R0010634
